@@ -1,0 +1,57 @@
+Event Type,Location,Previous Attendance,Weather,Day of Week,Ticket Price,Number of Speakers,Duration,Topic,Sponsor,Marketing Budget,Social Media Promotion
+Birthday,Lagos,4525,Rainy,Friday,166.3288747925829,5,4 hours,Education,True,6071,True
+Workshop,Lagos,1542,Cloudy,Wednesday,165.19740177279945,6,3 hours,Music,True,4366,False
+Christmas Eve,Oyo,1511,Rainy,Friday,46.6428494388563,6,4 hours,Art,True,6306,False
+Christmas Eve,Osun,1108,Rainy,Friday,173.51717467298855,9,4 hours,Fun,False,7260,True
+Conference,Osun,3293,Sunny,Sunday,40.19272526362128,1,3 hours,Education,True,5044,True
+Concert,Oyo,1520,Sunny,Saturday,36.51629134660648,4,2 hours,Music,False,3212,False
+Conference,Osun,3001,Rainy,Friday,181.8115785812427,9,5 hours,Politics,True,2073,True
+Concert,Abuja,4815,Sunny,Monday,6.028890882842952,4,4 hours,Music,True,7769,True
+Conference,Abuja,2109,Cloudy,Wednesday,62.57674692993738,5,2 hours,Music,True,9045,True
+Seminar,Port Harcourt,4764,Sunny,Tuesday,17.094034144165484,7,1 hour,Music,True,1345,True
+Christmas Eve,Lagos,1463,Cloudy,Tuesday,41.20898459217732,3,5 hours,Business,True,7764,True
+Christmas Eve,Birnin-Kebbi,4648,Sunny,Wednesday,184.8554090222788,8,1 hour,Education,False,8418,True
+Concert,Birnin-Kebbi,2055,Cloudy,Thursday,176.75983654219306,3,4 hours,Education,True,9284,True
+Workshop,Port Harcourt,1032,Rainy,Monday,26.976769044328442,8,3 hours,Technology,True,9122,False
+Birthday,Abuja,737,Rainy,Tuesday,121.61797303524406,2,3 hours,Business,True,8152,False
+Naming_Ceremony,Osun,1750,Sunny,Monday,71.66128341893095,9,2 hours,Business,True,3618,False
+Seminar,Kano,1243,Sunny,Thursday,181.98390610409209,3,2 hours,Music,True,1123,False
+Christmas Eve,Kano,2265,Rainy,Friday,78.85330987239425,3,4 hours,Politics,False,5393,False
+Birthday,Lagos,1259,Sunny,Thursday,168.22537643053053,7,2 hours,Politics,False,7282,False
+Conference,Port Harcourt,1956,Rainy,Thursday,70.68673761864596,6,1 hour,Business,True,3749,False
+Concert,Birnin-Kebbi,3547,Cloudy,Thursday,166.8894175030027,9,4 hours,Education,True,8302,False
+Naming_Ceremony,Abuja,4725,Rainy,Monday,168.76550417334775,6,1 hour,Fun,False,4094,False
+Workshop,Kano,3232,Rainy,Friday,6.363978644659785,4,2 hours,Politics,False,5733,True
+Concert,Ibadan,4551,Cloudy,Monday,164.74906069470003,9,4 hours,Politics,True,7862,False
+Valedictory,Lagos,4384,Cloudy,Saturday,4.965240353579259,6,3 hours,Art,True,5313,False
+Birthday,Oyo,3344,Sunny,Wednesday,170.5140029684773,7,5 hours,Technology,False,9997,True
+Seminar,Abuja,854,Rainy,Wednesday,136.07969326440764,8,1 hour,Politics,True,1570,True
+Concert,Oyo,4079,Rainy,Thursday,126.46625276795396,2,3 hours,Education,True,6015,False
+Christmas Eve,Lagos,1269,Cloudy,Wednesday,25.98975848656,2,2 hours,Technology,True,7391,False
+Birthday,Lagos,1883,Rainy,Thursday,139.12584202858434,4,4 hours,Politics,True,9138,True
+Seminar,Ibadan,1408,Sunny,Saturday,159.4917993972303,6,2 hours,Art,True,3611,False
+Workshop,Lagos,618,Cloudy,Sunday,138.73709068682442,8,4 hours,Education,False,9562,True
+Christmas Eve,Port Harcourt,1996,Cloudy,Monday,82.12897486786738,5,2 hours,Business,True,8542,False
+Naming_Ceremony,Port Harcourt,332,Rainy,Tuesday,138.7940103338032,2,4 hours,Technology,True,7384,False
+Seminar,Ibadan,4910,Cloudy,Thursday,14.208117530434162,4,3 hours,Business,False,5006,False
+Workshop,Oyo,3738,Sunny,Thursday,197.3977636481742,8,1 hour,Business,False,4926,True
+Seminar,Birnin-Kebbi,4930,Sunny,Friday,76.31303043279505,9,4 hours,Music,True,4105,False
+Christmas Eve,Birnin-Kebbi,1631,Cloudy,Sunday,37.56792524723549,3,1 hour,Music,False,1579,False
+Concert,Kano,577,Rainy,Monday,78.90899030740614,7,4 hours,Music,False,7455,False
+Valedictory,Osun,3131,Cloudy,Friday,12.968729273087387,1,2 hours,Business,False,3046,True
+Birthday,Ibadan,4744,Sunny,Thursday,45.130065270391384,4,2 hours,Education,False,8490,True
+Birthday,Ibadan,1648,Rainy,Sunday,28.969615680379146,8,5 hours,Education,True,6274,False
+Workshop,Osun,726,Sunny,Tuesday,107.41434564166666,2,1 hour,Education,False,5660,True
+Naming_Ceremony,Ibadan,4667,Sunny,Saturday,33.701703241691284,3,1 hour,Politics,False,9633,False
+Valedictory,Lagos,4855,Cloudy,Saturday,179.33598107203545,4,4 hours,Politics,True,9115,True
+Concert,Kano,4982,Cloudy,Monday,65.25856614387288,4,5 hours,Politics,True,7915,False
+Birthday,Osun,4330,Sunny,Friday,26.396813461278732,4,3 hours,Art,False,2998,True
+Conference,Port Harcourt,792,Rainy,Tuesday,45.81686131282194,6,1 hour,Politics,True,7336,True
+Birthday,Abuja,1541,Rainy,Saturday,100.39339498132394,8,5 hours,Art,True,6126,False
+Valedictory,Kano,2842,Sunny,Friday,30.381079360759845,7,5 hours,Technology,False,5015,True
+Seminar,Osun,4373,Sunny,Saturday,47.96442231691256,7,1 hour,Education,True,6633,False
+Seminar,Oyo,3185,Cloudy,Monday,86.67414577401911,4,5 hours,Fun,False,4433,True
+Conference,Osun,4618,Cloudy,Monday,93.30113512183446,1,2 hours,Business,False,3409,False
+Concert,Port Harcourt,1200,Rainy,Tuesday,114.55994041506175,9,2 hours,Fun,True,4430,False
+Workshop,Oyo,3918,Sunny,Tuesday,74.06185191982799,9,1 hour,Music,False,3779,False
+Concert,Birnin-Kebbi,2726,Rainy,Tuesday,66.03457283124668,5,3 hours,Education,False,2234,False
