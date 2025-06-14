@@ -19,3 +19,15 @@
 ### Where the data comes from:
 - The dataset used for this lab is hardcoded directly within the `etl_extract.ipynb` notebook
 - Details such as Event Type, Location,  Attendance and more are all represented in this sample event data.
+
+## Transformation for the data
+### Transformation on the full extraction data
+- First, Make a copy of the data. Applied 3 transformation requirements; Cleaning,Enrichment and Structural.
+- With the Cleaning, I checked if there were any missing values using the `if-else`. There were missing values and I filled them. I also looked for duplicates. Had a 50 rows before and after transformation.
+- With the Enrichment, I calculated the total cost,and made it into a column,by multiplying the attendees and cost per attendees. I rounded the decimals to 2.
+- With the Structural, I change the datetime into a string format.
+- I did a sample of the data to ensure all the transformations worked. Then created the `transformed_full.csv`.
+
+### Transform on the incremental extraction data
+- I performed the same requirements on this data. There difference is in the row count, 15.
+- Then created the `transformed_incremental.csv`.
