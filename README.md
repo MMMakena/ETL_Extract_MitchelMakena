@@ -31,3 +31,13 @@
 ### Transform on the incremental extraction data
 - I performed the same requirements on this data. There difference is in the row count, 15.
 - Then created the `transformed_incremental.csv`.
+
+## Lab 5 - Load
+File name: `etl_load.ipynb`
+- Ensured that the library for **Parquet** was installed`pandas pyarrow`. Then loaded the necessary libraries.
+- Loaded the transformed CSV files using `pd.read_csv`.
+- Saved the both transformed datasets in **Parquet** format using `pandas.to_parquet()`
+- Saved into a structured directory: `/loaded_data/`
+   -`full_data.parquet`
+   - `incremental_data.parquet`
+- Previewed the results using `pd.read_parquet()` then `.head()`
